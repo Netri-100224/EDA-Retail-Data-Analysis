@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/115025996/225593432-bf429fc5-c389-4ba8-99ec-89bec2a56201.png)
+![image](https://user-images.githubusercontent.com/115025996/225594340-1a55c1fa-a8bf-4171-b4b0-cdc32c7d9a4f.png)
 ## NAME: Neha Tripathi
 ## Intern at [THE SPARKS FOUNDATION](https://internship.thesparksfoundation.info/)
 ## Data Science and Business Analytics Intern GRIP MARCH 2023
