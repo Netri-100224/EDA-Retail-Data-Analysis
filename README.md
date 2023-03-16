@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/115025996/225594340-1a55c1fa-a8bf-4171-b4b0-cdc32c7d9a4f.png)
 ## NAME: Neha Tripathi
 ## Intern at [THE SPARKS FOUNDATION](https://internship.thesparksfoundation.info/)
-## Data Science and Business Analytics Intern GRIP MARCH 2023
+## Data Science and Business Analytics Internship GRIP MARCH 2023
 ## Task 3: Exploratory Data Analysis - Retail
 Accomplished the task with help of Sparks Foundation.
 
